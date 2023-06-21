@@ -31,3 +31,5 @@ srednqqStoimoctNabora; //8.2
 vsegoNaborov = 5;
 srednqqStoimoctNabora = stoimNabora + komboNew; //50.78999999999999
 srednqqStoimoctNabora = stoimNabora / vsegoNaborov; //6.56
+
+   
