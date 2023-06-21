@@ -36,7 +36,8 @@ undefined
 
 
 
-
+--global user.name "herrGromov"
+--global user.email youriy.gromov@gmail.com
 
 
 
